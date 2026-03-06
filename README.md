@@ -1,5 +1,10 @@
 # Electricity Consumption Prediction using Machine Learning
 
+Open the project in Google Colab:
+
+https://colab.research.google.com/drive/16yK2i8lB1n5G_-dk_p9Spkozxqu8qbJB?usp=sharing
+
+
 ## Project Overview
 This project builds a machine learning model to predict household electricity consumption using historical electrical measurements and temporal features.
 
@@ -37,11 +42,6 @@ Linear Regression
 
 ## Result
 The model successfully captured patterns in electricity consumption and provided reasonable predictions for household power usage.
-# Electricity Consumption Prediction
-
-Open the project in Google Colab:
-
-https://colab.research.google.com/drive/16yK2i8lB1n5G_-dk_p9Spkozxqu8qbJB?usp=sharing
 
 ## Author
 Annesha Khamrui
