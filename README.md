@@ -37,6 +37,11 @@ Linear Regression
 
 ## Result
 The model successfully captured patterns in electricity consumption and provided reasonable predictions for household power usage.
+# Electricity Consumption Prediction
+
+Open the project in Google Colab:
+
+https://colab.research.google.com/drive/16yK2i8lB1n5G_-dk_p9Spkozxqu8qbJB?usp=sharing
 
 ## Author
 Annesha Khamrui
