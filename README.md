@@ -39,4 +39,4 @@ Linear Regression
 The model successfully captured patterns in electricity consumption and provided reasonable predictions for household power usage.
 
 ## Author
-Your Name
+Annesha Khamrui
